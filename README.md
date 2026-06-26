@@ -53,7 +53,7 @@ I develop asynchronous services, integrate modern LLM models into production-rea
     *   **Frontend-to-Blockchain Binding:** Enabled asynchronous token balance reading directly from the smart contract via `wagmi` hooks alongside robust transaction handling for token minting.
 
 <br/><br/>
-<img src="https://raw.githubusercontent.com/unkn0wn-st/unkn0wn-st/main/line.png" width="100%">
+<img src="https://github.com/Edvart08/WEB3-Token-Minting-dApp/raw/refs/heads/main/whiteLine" width="100%">
 <br/><br/>
 
 ---
