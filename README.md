@@ -8,7 +8,7 @@ I develop asynchronous services, integrate modern LLM models into production-rea
 ## 🛠️ Core Tech Stack
 
 *   **Frontend:** React (Vite), TailwindCSS, RainbowKit, Wagmi, Viem
-*   **Backend & AI:** Python, FastAPI, Aiogram (v3), Groq API (Llama 3 / Prompt Engineering)[cite: 1, 2]
+*   **Backend & AI:** Python, FastAPI, Aiogram (v3), Groq API (Llama 3 / Prompt Engineering)
 *   **Blockchain:** Solidity, Remix IDE, ERC-20 standard
 *   **Databases & Tools:** PostgreSQL, Git, OpenID / Steam Auth
 
