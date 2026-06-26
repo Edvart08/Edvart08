@@ -1,7 +1,7 @@
 # 👋 Hi, I'm oguzok
 
 **Full-Stack / AI & Web3 Developer**  
-I develop asynchronous services, integrate modern LLM models into production-ready applications, and build decentralized applications (dApps). I am also passionate about 3D modeling (Blender) and game development.
+I develop asynchronous services, integrate modern LLM models into production-ready applications, and build decentralized applications (dApps). I am also passionate about 3D modeling (Blender) and game development (Unity).
 
 ---
 
@@ -62,7 +62,7 @@ I develop asynchronous services, integrate modern LLM models into production-rea
 # 👋🇷🇺 Рад видеть вас здесь, я oguzok
 
 **Full-Stack / AI & Web3 Разработчик**  
-Разрабатываю асинхронные сервисы, интегрирую современные LLM-модели в прикладные проекты и создаю децентрализованные приложения (dApps). Помимо этого, увлекаюсь 3D-моделированием (Blender) и игровой разработкой.
+Разрабатываю асинхронные сервисы, интегрирую современные LLM-модели в прикладные проекты и создаю децентрализованные приложения (dApps). Помимо этого, увлекаюсь 3D-моделированием (Blender) и игровой разработкой (Unity).
 
 ---
 
