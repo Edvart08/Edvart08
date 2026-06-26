@@ -1,4 +1,4 @@
-[3.md](https://github.com/user-attachments/files/29386404/3.md)# **Проект: AI Coach для Counter-Strike 2**
+# **Проект: AI Coach для Counter-Strike 2**
 
 
 
