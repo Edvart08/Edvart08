@@ -15,13 +15,14 @@ I develop asynchronous services, integrate modern LLM models into production-rea
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
+
 
 ### 🤖 Agentic AI Pipeline (NEW)
 > **Automated web content & code review system built with Agentic frameworks.**
 > **Tech Stack:** CrewAI, LangChain, OpenAI API.
 
-*   **Implementation:**
+**Implementation:**
    *   Designed autonomous multi-agent systems to perform technical SEO audits and code quality reviews.
    *   Implemented custom Tools (Read URL Content) and Skills (SEO-Expert) to enable agent autonomy.
    *   Leveraged LangChain Fleet for real-time orchestration, debugging, and tracing agent reasoning processes.
