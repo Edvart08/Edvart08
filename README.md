@@ -11,10 +11,22 @@ I develop asynchronous services, integrate modern LLM models into production-rea
 *   **Backend & AI:** Python, FastAPI, Aiogram (v3), Groq API (Llama 3 / Prompt Engineering)
 *   **Blockchain:** Solidity, Remix IDE, ERC-20 standard
 *   **Databases & Tools:** PostgreSQL, Git, OpenID / Steam Auth
+*   **AI Orchestration:** CrewAI, LangChain, Agentic Frameworks.
 
 ---
 
 ## 🚀 Projects
+
+### 🤖 Agentic AI Pipeline (NEW)
+> **Automated web content & code review system built with Agentic frameworks.**
+> **Tech Stack:** CrewAI, LangChain, OpenAI API.
+
+*   **Implementation:**
+   *   Designed autonomous multi-agent systems to perform technical SEO audits and code quality reviews.
+   *   Implemented custom Tools (Read URL Content) and Skills (SEO-Expert) to enable agent autonomy.
+   *   Leveraged LangChain Fleet for real-time orchestration, debugging, and tracing agent reasoning processes.
+
+---
 
 ### 🎮 CS2 AI Coach
 > **Full-stack web application designed for automated analysis of user match statistics powered by AI.**  
